@@ -1,4 +1,4 @@
-package Calculator;
+package ProgCal;
 
 
 import javax.swing.*;

@@ -1,4 +1,4 @@
-package Calculator;
+package ProgCal;
 
 public class Operator {
     static String modulo(String a, String b) {

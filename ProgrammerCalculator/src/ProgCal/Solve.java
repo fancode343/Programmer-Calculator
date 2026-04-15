@@ -1,4 +1,4 @@
-package Calculator;
+package ProgCal;
 
 public class Solve {
     static String[] numArrage(String[] numbers, String operator, int indexIndentify, int i){        
