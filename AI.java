@@ -1,3 +1,6 @@
+//This is an AI generated Code 
+//This used for comparing to my code
+
 package Calculator;
 
 import java.util.ArrayList;
