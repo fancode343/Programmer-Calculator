@@ -4,7 +4,6 @@ package ProgCal;
 import javax.swing.*;
 import java.awt.event.*;
 import java.awt.*;
-import Secret.Secret;
 
 public class Main {
     static String input = "";
